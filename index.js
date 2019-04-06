@@ -3,8 +3,8 @@ function whisper(string){return string.toLowerCase()};
 function logShout(string){console.log(string.toUpperCase())};
 function logWhisper(string){console.log(string.toLowerCase())};
 var response = "I love you Grandma"
-function sayHiToGrandma (string) {
-if (string === lowercase)
+function sayHiToGrandma (string.mixedCase()) {
+if (string === mixedcase)
 {
-  return response}
+  return "I love you,Grandma"}
 }
